@@ -286,9 +286,9 @@ $dumpvars;
 
 ## Author
 
-- **Rajath Krishna**
-- **Chethan Kumarr**
-- **Chiranthan Poojary**
+- **Rajath Krishna B**
+- **Chethan Kumarr.Y**
+- **Chiranthan**
 
 **Department:** Electronics and Communication Engineering (ECE)
 
